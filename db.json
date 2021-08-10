@@ -4,6 +4,7 @@
      {
         "id": 1,
         "lote":"",
+        "formato": "",
         "numero": "",
         "texto": "",
         "banner": "",
@@ -25,6 +26,7 @@
      {
         "id": 1,
         "lote":"",
+        "formato": "",
         "numero": "",
         "campanha": "",
         "status": "",
