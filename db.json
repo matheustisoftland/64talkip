@@ -3,6 +3,7 @@
       "talkipc": [
      {
         "id": 1,
+        "lote":"",
         "numero": "",
         "texto": "",
         "banner": "",
@@ -12,6 +13,7 @@
        "talkipr": [
      {
         "id": 1,
+        "lote":"",
         "numero": "",
         "campanha": "",
         "status": "",
