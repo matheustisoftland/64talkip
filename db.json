@@ -2,7 +2,7 @@
      
       "talkipc": [
      {
-        "id": 1,
+        "id": "",
         "lote":"",
         "formato": "",
         "numero": "",
@@ -13,7 +13,7 @@
     ],
        "talkipr": [
      {
-        "id": 1,
+        "id": "",
         "lote":"",
         "numero": "",
         "campanha": "",
@@ -24,7 +24,7 @@
      
       "talkiplinkc": [
      {
-        "id": 1,
+        "id": "",
         "lote":"",
         "formato": "",
         "numero": "",
@@ -36,7 +36,7 @@
 
  "talkiplinkr": [
      {
-        "id": 1,
+        "id": "",
         "lote":"",
         "numero": "",
         "campanha": "",
