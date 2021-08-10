@@ -20,6 +20,28 @@
         "resposta": ""
       }
     ]
+     
+      "talkiplinkc": [
+     {
+        "id": 1,
+        "lote":"",
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
+
+ "talkiplinkr": [
+     {
+        "id": 1,
+        "lote":"",
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
 
      
 }
