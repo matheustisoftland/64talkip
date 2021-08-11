@@ -12,7 +12,7 @@
     ],
        "talkiplote1r": [
      {
-        "id": "1",
+        "id": 1,
         "numero": "",
         "campanha": "",
         "status": "",
@@ -33,7 +33,7 @@
     ],
        "talkiplote2r": [
      {
-        "id": "1",
+        "id": 1,
         "numero": "",
         "campanha": "",
         "status": "",
@@ -53,7 +53,7 @@
     ],
        "talkiplote3r": [
      {
-        "id": "1",
+        "id": 1,
         "numero": "",
         "campanha": "",
         "status": "",
