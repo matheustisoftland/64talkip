@@ -1,9 +1,8 @@
 {
      
-      "talkipc": [
+      "talkiplote1c": [
      {
         "id": 1,
-        "lote":"",
         "formato": "",
         "numero": "",
         "texto": "",
@@ -11,9 +10,9 @@
         "avatar": ""
       }
     ],
-       "talkipr": [
+       "talkiplote1cr": [
      {
-        "id": "",
+        "id": "1",
         "lote":"",
         "numero": "",
         "campanha": "",
@@ -22,29 +21,46 @@
       }
     ],
      
-      
-      "talkiplinkc": [
+     
+      "talkiplote2c": [
      {
-        "id": "",
-        "lote":"",
+        "id": 1,
         "formato": "",
         "numero": "",
-        "campanha": "",
-        "status": "",
-        "resposta": ""
+        "texto": "",
+        "banner": "",
+        "avatar": ""
       }
     ],
-
- "talkiplinkr": [
+       "talkiplote2r": [
      {
-        "id": "",
+        "id": "1",
         "lote":"",
         "numero": "",
         "campanha": "",
         "status": "",
         "resposta": ""
       }
-    ]
-
+    ],
      
+      "talkiplote3c": [
+     {
+        "id": 1,
+        "formato": "",
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "talkiplote3r": [
+     {
+        "id": "1",
+        "lote":"",
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]     
 }
