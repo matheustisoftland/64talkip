@@ -1,28 +1,11 @@
 {
      
-      "talkiplote1c": [
-     {
-        "id": 1,
-        "formato": "",
-        "numero": "",
-        "texto": "",
-        "banner": "",
-        "avatar": ""
-      }
-    ],
-       "talkiplote1r": [
-     {
-        "id": 1,
-        "numero": "",
-        "campanha": "",
-        "status": "",
-        "resposta": ""
-      }
-    ],
+    
      
         "talkipc": [
      {
         "id": 1,
+        "lote": "",
         "formato": "",
         "numero": "",
         "texto": "",
@@ -33,6 +16,7 @@
        "talkipr": [
      {
         "id": 1,
+        "lote": "",
         "numero": "",
         "campanha": "",
         "status": "",
@@ -44,6 +28,7 @@
       "talkiplinkc": [
      {
         "id": 1,
+        "lote": "",
         "formato": "",
         "numero": "",
         "texto": "",
@@ -54,51 +39,13 @@
        "talkiplinkr": [
      {
         "id": 1,
+        "lote": "",
         "numero": "",
         "campanha": "",
         "status": "",
         "resposta": ""
       }
-    ],
+    ]
      
-     
-      "talkiplote2c": [
-     {
-        "id": 1,
-        "formato": "",
-        "numero": "",
-        "texto": "",
-        "banner": "",
-        "avatar": ""
-      }
-    ],
-       "talkiplote2r": [
-     {
-        "id": 1,
-        "numero": "",
-        "campanha": "",
-        "status": "",
-        "resposta": ""
-      }
-    ],
-     
-      "talkiplote3c": [
-     {
-        "id": 1,
-        "formato": "",
-        "numero": "",
-        "texto": "",
-        "banner": "",
-        "avatar": ""
-      }
-    ],
-       "talkiplote3r": [
-     {
-        "id": 1,
-        "numero": "",
-        "campanha": "",
-        "status": "",
-        "resposta": ""
-      }
-    ]     
+   
 }
